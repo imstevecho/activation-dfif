@@ -1,6 +1,6 @@
 {
   "_id": "71469b05fe76e0b3655424e0a8232085",
-  "_rev": "1-978d01becff50ad262056a5c13954266",
+  "_rev": "2-af1c26660bfd046d9b6b7f4ec8fb4924",
   "language": "en-us",
   "realm": "2vtd4.smb.ooma.com",
   "name": "Eric Stang",
@@ -41,6 +41,7 @@
   "pvt_auth_user_id": "8e064241d19211210632722acae5544e",
   "pvt_auth_account_id": "71e7dd8bd4312cda03a243e682d22693",
   "pvt_is_authenticated": true,
+  "pvt_notification_preference": "teletype",
   "_revs_info": [
     {
       "rev": "5-bf2b1e3701d95bf14ac4f1534c7b6f2f",
