@@ -1,8 +1,7 @@
 {
   "_id": "71469b05fe76e0b3655424e0a8232085",
-  "_rev": "4-98c35ee7bdd20bb342261b378906bc84",
+  "_rev": "5-bf2b1e3701d95bf14ac4f1534c7b6f2f",
   "timezone": "America/Los_Angeles",
-  "tenant": "ooma",
   "ringtones": {},
   "reseller_id": "71e7dd8bd4312cda03a243e682d22693",
   "realm": "2vtd4.smb.ooma.com",
@@ -25,33 +24,14 @@
   "pvt_account_id": "71469b05fe76e0b3655424e0a8232085",
   "pvt_account_db": "account%2F71%2F46%2F9b05fe76e0b3655424e0a8232085",
   "primary_vmbox_id": "f45f8d12dc7ca3e367455f490f7ecefe",
-  "preflow": {},
-  "ooma_info": {
-    "pricing_model": "new"
+  "preflow": {
+    "always": "8e48cabd41a1477499d4b3850e5adea5"
   },
-  "ooma_cellular_bridge": "16505187152",
   "notification_preference": "teletype",
   "name": "Eric Stang",
   "music_on_hold": {},
-  "metaflows": {
-    "numbers": {
-      "44": {
-        "module": "move",
-        "data": {
-          "dial_strategy": "simultaneous",
-          "can_call_self": true,
-          "auto_answer": false
-        }
-      }
-    },
-    "listen_on": "both",
-    "digit_timeout_ms": 3000,
-    "binding_digit": "*"
-  },
-  "locale": "us",
   "language": "en-us",
   "is_reseller": false,
-  "digits_plan": 4,
   "created": 63777258595,
   "caller_id": {
     "internal": {
@@ -67,28 +47,5 @@
       "name": "Eric Stang"
     }
   },
-  "call_restriction": {},
-  "_revs_info": [
-    {
-      "rev": "5-bf2b1e3701d95bf14ac4f1534c7b6f2f",
-      "status": "available"
-    },
-    {
-      "rev": "4-98c35ee7bdd20bb342261b378906bc84",
-      "status": "available"
-    },
-    {
-      "rev": "3-4dac53d0d1f4999cb5f87ccc268df623",
-      "status": "available"
-    },
-    {
-      "rev": "2-af1c26660bfd046d9b6b7f4ec8fb4924",
-      "status": "available"
-    },
-    {
-      "rev": "1-978d01becff50ad262056a5c13954266",
-      "status": "available"
-    }
-  ],
-  "_local_seq": 93
+  "call_restriction": {}
 }
